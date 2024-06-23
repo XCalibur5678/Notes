@@ -36,6 +36,9 @@ class MyApp extends StatelessWidget {
   }
 }
 
+class ColorScheme {
+}
+
 class MyHomePage extends StatefulWidget {
   const MyHomePage({super.key, required this.title});
 
