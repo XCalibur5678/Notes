@@ -20,13 +20,13 @@ A simple Notes Application built with Flutter and Hive.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/notes-app.git
+    git clone https://github.com/your-username/Notes.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd notes-app
+    cd notes
     ```
 
 3. Install dependencies:
